@@ -1,0 +1,17 @@
+commit 3e898294c7fec1159425a45d2f32b3077435a0fa
+Author: Bastian Sdorra <Bastian.SDORRA@3ds.com>
+Date:   Fri Feb 4 21:06:31 2022 +0100
+
+    Fidelity test cli rendering + DS STELLAR path-tracer goldens (#3178)
+    
+    * Add stellar cli renderer + renderings
+    
+    * Fix readme and goldens
+    
+    - Fix json comments in test/README.md
+    - Fix MetalRoughSpheres golden
+    - Add MaterialsVariantsShow golden
+    
+    * Add MetalRoughSpheres-HDR golden
+    
+    * Add Suzanne golden
